@@ -1,6 +1,6 @@
 # .NET 10 & C# 14 — Feature Showcase
 
-> **Engineering reference project** — practical, production-relevant demonstrations of C# 14 language features and .NET 10 platform improvements.
+> practical, production-relevant demonstrations of C# 14 language features and .NET 10 platform improvements.
 
 ---
 
